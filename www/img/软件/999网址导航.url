@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.999.com/?xzb
+[InternetShortcut]
+URL=http://www.999.com/?xzb
+IconFile=http://www.999.com/favicon.ico
+IconIndex=1
